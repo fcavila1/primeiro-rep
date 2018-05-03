@@ -1,2 +1,2 @@
 # Meu Primeiro Repositório GitHub
-Curso de JavaScript
+## Curso de JavaScript
